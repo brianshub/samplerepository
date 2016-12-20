@@ -1,0 +1,98 @@
+#header{
+	height: 150px;
+	width: 30%;
+	background-color: black;
+	float: left;
+}
+#nav1{
+	height: 100px;
+	width: 13%;
+	background-color: red;
+}
+#nav2{
+	height: 100px;
+	width: 13%;
+	background-color: yellow;
+}
+#nav3{
+	height: 100px;
+	width: 13%;
+	background-color: green;
+}
+#nav4{
+	height: 100px;
+	width: 13%;
+	background-color: blue;
+}
+#nav5{
+	height: 100px;
+	width: 13%;
+	background-color: purple;
+}
+#nav1, #nav2, #nav3, #nav4, #nav5{
+	float: right;
+	/*margin-top: 20px;*/
+	margin: 20px 2px 2px 2px;
+}
+#aside1{
+	height: 500px;
+	width: 20%;
+	background-color: red;
+	float: left;
+	clear: both;
+}
+#section{
+	float:left;
+}
+#section1{
+	height: 150px;
+	width: 80%;
+	background-color: blue;
+	float: left;
+	/*clear: both;*/
+}
+#section2{
+	height: 200px;
+	width: 60%;
+	background-color: black;
+	float: left;
+	/*clear: both;*/
+}
+#aside2{
+	height: 200px;
+	width: 20%;
+	background-color: green;
+	float: left;
+}
+#aside3{
+	height: 150px;
+	width: 20%;
+	background-color: green;
+	float: left;
+	/*clear: both;*/
+}
+#aside4{
+	height: 150px;
+	width: 20%;
+	background-color: yellow;
+	float: left;
+}
+#aside5{
+	height: 150px;
+	width: 20%;
+	background-color: red;
+	float: left;
+}
+#aside6{
+	height: 150px;
+	width: 20%;
+	background-color: blue;
+	float: left;
+}
+#footer{
+	height: 150px;
+	width: 100%;
+	background-color: black;
+	float: left;
+	clear: both;
+}
